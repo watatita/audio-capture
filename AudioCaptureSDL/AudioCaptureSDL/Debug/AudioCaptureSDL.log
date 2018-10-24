@@ -1,0 +1,4 @@
+﻿  AudioCaptureSDL.cpp
+c:\media\project-git\audiocapturesdl\audiocapturesdl\audiocapturesdl.cpp(103): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\media\project-git\audiocapturesdl\audiocapturesdl\audiocapturesdl.cpp(139): warning C4244: 'argument': conversion from 'double' to 'const std::complex<float>::_Ty', possible loss of data
+  AudioCaptureSDL.vcxproj -> C:\Media\project-git\AudioCaptureSDL\Debug\AudioCaptureSDL.exe
